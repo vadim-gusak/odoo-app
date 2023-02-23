@@ -32,11 +32,11 @@ services:
     build: .
     restart: always
     environment:
-      - TOKEN=6121965837:AAHb8i_Uh2V9CiizQFNQopyC4BDA6eCSTbg
+      - TOKEN=
       - URL=http://172.16.1.4:8069/
-      - DB=tt
-      - ODOO_USER=gusakvd@gmail.com
-      - PASSWORD=123
+      - DB=
+      - ODOO_USER=
+      - PASSWORD=
 
 networks:
   default:
