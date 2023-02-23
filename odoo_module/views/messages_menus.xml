@@ -1,0 +1,7 @@
+<odoo>
+    <menuitem id="meassages_menu_root" name="Telegram Bot">
+        <menuitem id="messages_first_level_menu" name="Messages">
+            <menuitem id="messages_model_menu_action" name="Message management" action="messages_model_action"/>
+        </menuitem>
+    </menuitem>
+</odoo>

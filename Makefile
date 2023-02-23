@@ -1,0 +1,2 @@
+bot:
+	poetry run bot
